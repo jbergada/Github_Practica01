@@ -23,3 +23,10 @@ area = area_circulo(radio)
 
 
 print("El area es: ", area)
+
+
+# Git commands
+
+# git add . -> añade todos los archivos
+# git commit -m "Describe lo que has hecho"
+# git push -> subir al repo
