@@ -1,4 +1,4 @@
-#Bloc02 ->Python Github_Practica01.py  
+#Bloc02 ->Python Github_Practica01.py  V01
 
 # Importar la llibreria math i la constant PI Alumn@ 26
 # L'alumn@ 26 ens explicarà què és la llibreria math i perquè la fem servir
