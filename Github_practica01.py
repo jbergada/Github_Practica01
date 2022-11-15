@@ -1,160 +1,211 @@
-#Bloc02 ->Python Github_Practica01.py
+#Bloc02 ->Python Github_Practica01.py  
+
+# Importar la llibreria math i la constant PI Alumn@ 26
+# L'alumn@ 26 ens explicarà què és la llibreria math i perquè la fem servir
 
 import math
 PI = math.pi  
 
+# Àrees i perímetres
+# Els números es corresponen amb el número que he assignat a cada figura de la taula
+# Els números també es corresponen amb els de l'alumn@ que ha de fer el programa i enviar-lo
 
-def quadrat():
-    pass
-
-def triangle():
-    pass
-
-def rectangle():
-    pass
-
-def paralellogram():
-    pass
-
-def rombe():
-    pass
-
-def estel():
-    pass
-
-def _trapezi():
-    pass
-
-def cercle():
-    print("Càlcul del àrea i el perímetre d'un cercle ")
-    radi = float(input("radi = "))
-    area = math.pow(radi, 2) * PI
-    perimetre = 2 * PI * radi
-    return area, perimetre
-
-def poligon():
-    pass
-
-def corona():
-    pass
-
-def sector():
-    pass
-
-def tronc_con():
-    print("Càlcul àrea i volum d'un tronc de con" )
-    R = float(input("Radi major = "))
-    r = float(input("radi menor = "))
-    h = float(input("altura = "))
-    g = float(input("generatriu = "))
-    area = PI * (g * (r+R)+(r*r)+math.pow(R,2))
-    volum = PI * h * ((R*R)+(r*r)+(R*r))/3
-    return area, volum
+def quadrat(): # 1 (figura 1 alumn@ 1 i així fina al 25)
+    
+def triangle(): # 2
     
 
+def rectangle(): # 3
+    
 
-# Programa principal
+def paralellogram(): # 4
+    
 
-print("             Menú               ")
+def rombe(): # 5
+    
+
+def estel(): # 5
+    
+     
+def trapezi(): # 6
+    
+
+def cercle(): # 7
+    
+
+def poligon(): # 9
+    
+    
+
+def corona(): # 10
+    
+
+def sector(): # 11
+    
+
+# Àrees i volums
+
+def cub(): # 12
+   
+
+def cilindre(): # 13
+    
+
+def ortoedre(): # 14
+    
+
+def prisma_recte(): # 15
+    
+
+def con(): # 16
+   
+
+def tronc_con(): # 17
+   
+
+def esfera(): # 18
+    
+
+def piramide(): # 19
+   
+                  
+def tetraedre_regular(): # 20
+   
+
+def octaedre_regular(): # 21
+  
+
+def tronc_piramide(): # 22
+    
+ 
+def casquet_esferic(): # 23
+    
+    
+def fus_falcaEsferica(): # 24
+    
+    
+def segment_esferic(): # 25
+
+# Els alumnes 27 i 28 buscaran les taules a treballar i comprobaran resultats d'execució
+# Programa principal  Alumn@ 27
+
+print(" Menú -- Mides en unitat donada ")
 print("================================")
 print("")
-print("1. Àrea i perímetre d'un quadrat ")
-print("2. Àrea i perímetre d'un triangle ")
-print("3. Àrea i perímetre d'un rectangle ")
-print("4. Àrea i perímetre d'un paral·lelogram ")
-print("5. Àrea i perímetre d'un rombe ")
-print("6. Àrea i perímetre d'un estel ")
-print("7. Àrea i perímetre d'un trapezi ")
-print("8. Àrea i perímetre d'un cercle ")
-print("9. Àrea i perímetre d'un polígon regular ")
-print("10. Àrea i perímetre d'una corona circular ")
-print("11. Àrea i perímetre d'un sector circular ")
+print("1. ")
+print("2. ")
+print("3. ")
+print("4. ")
+print("5. ")
+print("6. ")
+print("7. ")
+print("8. ")
+print("9. ")
+print("10. ")
+print("11. ")
 print("")
-print("12. Àrea i volum d'un cub ")
-print("13. Àrea i volum d'un cilindre ")
-print("14. Àrea i volum d'un ortoedre ")
-print("15. Àrea i volum d'un prisma recte ")
-print("16. Àrea i volum d'un con ")
-print("17. Àrea i volum d'un tronc de con ")
-print("18. Àrea i volum d'una esfera ")
-print("19. Àrea i volum d'una piràmide ")
-print("20. Àrea i volum d'un tetraedre regular ")
-print("21. Àrea i volum d'un octaedre regular ")
-print("22. Àrea i volum d'un tronc de piràmide ")
-print("23. Àrea i volum d'un casquet esfèric ")
-print("24. Àrea i volum d'un fus -falca esfèrica- ")
-print("25. Àrea i volum d'una zona o segment esfèric ")
+
+print("12. ") # Alumn@ 28
+print("13. ")
+print("14. ")
+print("15. ")
+print("16. ")
+print("17. ")
+print("18. ")
+print("19. ")
+print("20. ")
+print("21. ")
+print("22. ")
+print("23. ")
+print("24. ")
+print("25. ")
 print("")
 print("==============================================")
 
 menu = int(input("escull un element del menú: "))
 
+# Àrees i perímetres  Alumn@ 29
+
 if menu == 1 :
-    pass
+    
+    
 elif menu == 2 :
-    pass
+    
+    
 elif menu == 3 :
-    pass
-elif menu == 4 :
-    pass
+    
+elif menu == 4 : # Alumn@ 30
+    
+    
 elif menu == 5 :
-    pass
+    
+    
 elif menu == 6 :
-    pass
-elif menu == 7 :
-    pass
-elif menu == 8 :
-    area,perimetre = cercle()
-    print("L'àrea és: ", area)
-    print("El perímetre és: ", perimetre)
+    
+    
+elif menu == 7 :  
+    
+    
+elif menu == 8 : # Alumn@ 31
+    
+    
 elif menu == 9 :
-    pass
-    """ menu < 10:
-    print("El perímetre és: ", perimetre)
-    elif menu>=10:
-    """
+    
+
+   
 elif menu == 10 :
-    pass
+    
+    
 elif menu == 11 :
-    pass
+    
+
+# Àrees i volums Alumn@ 32
+
 elif menu == 12 :
-    pass
+    
+    
 elif menu == 13 :
-    pass
+    
+    
 elif menu == 14 :
-    pass
+    
 elif menu == 15 :
-    pass
-elif menu == 16 :
-    pass
+    
+elif menu == 16 : # Alumn@ 33
+    
 elif menu == 17 :
-    area,volum = tronc_con()
-    print("L'àrea és  ", area)
-    # para ver más adelante
-    # unidad = unicode(u"cm \U+00B3").encode("utf8")
-    print("El volum en cm és  ",volum, "cm3.")
+    
 elif menu == 18 :
-    pass
+    
 elif menu == 19 :
-    pass
+    
 elif menu == 20 :
-    pass
-elif menu == 21 :
-    pass
+    
+elif menu == 21 : # Alumn@ 34
+    
 elif menu == 22 :
-    pass
+    
 elif menu == 23 :
-    pass
+    
 elif menu == 24 :
-    pass
+    
 elif menu == 25 :
-    pass
+    
 
+# Git commands Alumn@ 35
 
-
-# Git commands
-
+# git clone [https:// --- adreça de l'enllaç del codi
 # git status
 # git add . -> afegeix tots els arxius
 # git commit -m "Descriu el que hem fet"
 # git push -> pujar al repositori
+
+# cada alumn@ vetllarà perquè la seva part de codi funcioni
+# Alumn@ 36 -- Comprobarà resultats, i passarà el .py a .exe (en col·laboració amb
+# els alumnes 27 i 28)
+
+""" Prèviament cada alumn@ haurà programat algunes de les figures
+primer amb programació estructurada i després amb programació modular.
+
+Cada alumn@ comprobarà la part de codi que envia des del seu ordinador local
+"""
