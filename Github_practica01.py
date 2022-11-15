@@ -10,7 +10,7 @@ PI = math.pi
 # Els números es corresponen amb el número que he assignat a cada figura de la taula
 # Els números també es corresponen amb els de l'alumn@ que ha de fer el programa i enviar-lo
 
-def quadrat(): # 1 (figura 1 alumn@ 1 i així fina al 25)
+def quadrat(): # 1 (figura 1 alumn@ 1 i així fins al 25)
     
 def triangle(): # 2
     
@@ -195,6 +195,7 @@ elif menu == 25 :
 # Git commands Alumn@ 35
 
 # git clone [https:// --- adreça de l'enllaç del codi
+# https://github.com/jbergada/Github_Practica01.git
 # git status
 # git add . -> afegeix tots els arxius
 # git commit -m "Descriu el que hem fet"
