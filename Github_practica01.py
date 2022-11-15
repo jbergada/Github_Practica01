@@ -198,6 +198,7 @@ elif menu == 25 :
 # https://github.com/jbergada/Github_Practica01.git
 # git status
 # git add . -> afegeix tots els arxius
+# git commit -m "josepmaria.bergada@escolaindustrial.org"
 # git commit -m "Descriu el que hem fet"
 # git push -> pujar al repositori
 
