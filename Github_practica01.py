@@ -198,7 +198,7 @@ elif menu == 25 :
 # https://github.com/jbergada/Github_Practica01.git
 # El git clone nomes s'ha de fer UNA VEGADA!!!, ja teniu les carpetes al PC
 # Si voleu, per tornar a començar, esborreu la carpeta Github_Practica01 sencera...
-# ... botó dreta -> Actalizar i torneu a fer un git clone https://github.com/jbergada/Github_Practica01.git
+# ... botó dreta -> Actualizar i torneu a fer un git clone https://github.com/jbergada/Github_Practica01.git
 # Seguiu amb la llista de gits que ve tot seguit
 
 # Configuració de correu (vosaltres amb el vostre correu)
