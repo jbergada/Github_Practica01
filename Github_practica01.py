@@ -198,6 +198,10 @@ elif menu == 25 :
 # https://github.com/jbergada/Github_Practica01.git
 # El git clone nomes s'ha de fer UNA VEGADA!!!, ja teniu les carpetes al PC
 
+# Configuració de correu (vosaltres amb el vostre correu)
+# git config -- user.email "josepmaria.bergada@escolaindustrial.org"
+
+
 # git status
 # git add . -> afegeix tots els arxius
 # git status
