@@ -206,7 +206,7 @@ elif menu == 25 :
 
 
 # git status
-# git add . -> afegeix tots els arxius
+# git add . -> afegeix tots els arxius Deixa l'espai abans del punt
 # git status
 # git commit -m "josepmaria.bergada@escolaindustrial.org Esquelet del programa -- cadascu ha de posar el que ha fet sense accents"
 # git status
