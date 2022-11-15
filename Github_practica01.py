@@ -194,13 +194,17 @@ elif menu == 25 :
 
 # Git commands Alumn@ 35
 
-# git clone [https:// --- adreça de l'enllaç del codi
+# git clone [https:// --- adreça de l'enllaç del codi que us poso tot seguit
 # https://github.com/jbergada/Github_Practica01.git
+# El git clone nomes s'ha de fer UNA VEGADA!!!, ja teniu les carpetes al PC
+
 # git status
 # git add . -> afegeix tots els arxius
-# git commit -m "josepmaria.bergada@escolaindustrial.org"
-# git commit -m "Descriu el que hem fet"
+# git status
+# git commit -m "josepmaria.bergada@escolaindustrial.org Esquelet del programa -- cadascu ha de posar el que ha fet sense accents"
+# git status
 # git push -> pujar al repositori
+# git status
 
 # cada alumn@ vetllarà perquè la seva part de codi funcioni
 # Alumn@ 36 -- Comprobarà resultats, i passarà el .py a .exe (en col·laboració amb
